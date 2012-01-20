@@ -10,13 +10,13 @@ var:
   rss_path: /atom.xml
 
 production_url : http://username.github.com # or your custom domain name
-title : Jekyll Bootstrap
+title : Stane's Jekyll
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Stane
+  email : midstane@gmail.com
+  github : stane
+  twitter : stane
   feedbuder : feedname
 
 exclude: .rbenv-version
