@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Hello I'm Stane
 ---
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/jekyll-quick-start.html)
